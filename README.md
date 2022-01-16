@@ -1,2 +1,0 @@
-# Blogde
-Blog
